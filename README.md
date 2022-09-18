@@ -21,3 +21,10 @@
 - find folder the application is housed within your terminal 
 - change directory (cd) to the folder
 - still within your terminal run (python 'appname'.py) 
+
+
+#### How to's
+- add a link | https://github.com/Brittanykusi/flask-html/blob/f897e85d08535f0ce0ea98071a3e42221abd178c/Script/templates/p1_homepage.html#L5
+- attach a photo | https://github.com/Brittanykusi/flask-html/blob/f897e85d08535f0ce0ea98071a3e42221abd178c/Script/templates/p3_patient_landing_page.html#L20
+- create a buttion | https://github.com/Brittanykusi/flask-html/blob/f897e85d08535f0ce0ea98071a3e42221abd178c/Script/templates/p2_login1.html#L9
+- pull in the css static package of choice | https://github.com/Brittanykusi/flask-html/blob/f897e85d08535f0ce0ea98071a3e42221abd178c/Script/templates/p2_login1.html#L4-L5
