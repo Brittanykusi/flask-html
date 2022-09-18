@@ -3,9 +3,9 @@
 ## Create and styilize a web application with many pages.
 
 ### First Steps
-- load in packages | https://github.com/Brittanykusi/flask-html.git
-- Add routes to pages | https://github.com/Brittanykusi/flask-html.git
-- provide connection to port from local machine | https://github.com/Brittanykusi/flask-html.git
+- load in packages | https://github.com/Brittanykusi/flask-html/blob/2ad078988ccccb1beba05253195645fd234f711d/Script/flaskapp-html.py#L1
+- Add routes to pages | https://github.com/Brittanykusi/flask-html/blob/2ad078988ccccb1beba05253195645fd234f711d/Script/flaskapp-html.py#L3-L7
+- provide connection to port from local machine | https://github.com/Brittanykusi/flask-html/blob/2ad078988ccccb1beba05253195645fd234f711d/Script/flaskapp-html.py#L31-L32
 
 ### Set-up templates
 - example | https://github.com/Brittanykusi/flask-html/blob/9fa5d6052ee0126f0a0f2e23f3175510e3a32407/Script/templates/p1_homepage.html#L1-L10
